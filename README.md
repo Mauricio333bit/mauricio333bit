@@ -15,8 +15,7 @@ Hola! soy Mauricio un desarrollador ambicioso💻🔥 he concretado la Tecnicatu
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mauricio333bit&icon=0&color=0)](https://visitcount.itsvg.in)
